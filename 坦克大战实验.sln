@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "坦克大战实验", "坦克大战实验\坦克大战实验.csproj", "{69321609-FB5D-496F-AD40-B2735C9D088A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "坦克大战实验1.0", "坦克大战实验\坦克大战实验1.0.csproj", "{69321609-FB5D-496F-AD40-B2735C9D088A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
